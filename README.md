@@ -41,6 +41,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![test](assets/images/brand-awareness.png)
-
+![test](Horiseon-HTML-Landing-Page/assets/images/brand-awareness.png)
 
