@@ -41,5 +41,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-![alt text](assets/images/online-reputation-management.jpg)
+![Horiseon Landing Page](assets/images/cjsmith1988.github.io_Horiseon-HTML-Landing-Page_.png)
 
