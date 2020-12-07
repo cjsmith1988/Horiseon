@@ -39,7 +39,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 
 THEN I find a concise, descriptive title
-```
 
-![test](Horiseon-HTML-Landing-Page/assets/images/brand-awareness.png)
+
+![alt text](assets/images/online-reputation-management.jpg)
 
