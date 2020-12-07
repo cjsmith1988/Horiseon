@@ -43,7 +43,7 @@ THEN I find a concise, descriptive title
 
 # Screen shot:
 
-![test](./assets/images/brand-awareness.png)
+![test](assets/images/brand-awareness.png)
 Format: ![Alt Text](url)
 
 
