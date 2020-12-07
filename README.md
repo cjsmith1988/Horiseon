@@ -41,7 +41,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-# Screen shot:
-![test](images/brand-awareness.png)
+![test](assets/images/brand-awareness.png)
 
 
