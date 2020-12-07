@@ -42,8 +42,6 @@ THEN I find a concise, descriptive title
 ```
 
 # Screen shot:
-
-![test](brand-awareness.png)
-Format: ![Alt Text](url)
+![test](images/brand-awareness.png)
 
 
