@@ -33,7 +33,7 @@ THEN I find a concise, descriptive title
 
 # Screen shot:
 
-![GitHub Logo](/assets/brand-awareness.png)
+![test](./assets/brand-awareness.png)
 Format: ![Alt Text](url)
 
 
