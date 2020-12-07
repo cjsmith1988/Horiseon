@@ -4,6 +4,8 @@
 
 
 **Installation**: 	access Github repository here: https://github.com/cjsmith1988/Horiseon-HTML-Landing-Page.git
+
+
 		        access Application URL here: https://cjsmith1988.github.io/Horiseon-HTML-Landing-Page/
 				
 
